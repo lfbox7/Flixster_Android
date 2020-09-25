@@ -20,7 +20,7 @@ Time spent: **2** hours spent in total
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/BBTjOp83yF.gif' width=350>
+<img src='https://recordit.co/kk0hBUJf0b.gif' width=350>
 
 GIF created with [RecordIt](http://recordit.co/E0HkXA7DLF).
 
